@@ -1,0 +1,11 @@
+C:\Users\Edward\source\repos\Lab10-sem3\bin\Debug\netcoreapp3.1\Lab10-sem3.exe
+C:\Users\Edward\source\repos\Lab10-sem3\bin\Debug\netcoreapp3.1\Lab10-sem3.deps.json
+C:\Users\Edward\source\repos\Lab10-sem3\bin\Debug\netcoreapp3.1\Lab10-sem3.runtimeconfig.json
+C:\Users\Edward\source\repos\Lab10-sem3\bin\Debug\netcoreapp3.1\Lab10-sem3.runtimeconfig.dev.json
+C:\Users\Edward\source\repos\Lab10-sem3\bin\Debug\netcoreapp3.1\Lab10-sem3.dll
+C:\Users\Edward\source\repos\Lab10-sem3\bin\Debug\netcoreapp3.1\Lab10-sem3.pdb
+C:\Users\Edward\source\repos\Lab10-sem3\obj\Debug\netcoreapp3.1\Lab10-sem3.csprojAssemblyReference.cache
+C:\Users\Edward\source\repos\Lab10-sem3\obj\Debug\netcoreapp3.1\Lab10-sem3.AssemblyInfoInputs.cache
+C:\Users\Edward\source\repos\Lab10-sem3\obj\Debug\netcoreapp3.1\Lab10-sem3.AssemblyInfo.cs
+C:\Users\Edward\source\repos\Lab10-sem3\obj\Debug\netcoreapp3.1\Lab10-sem3.dll
+C:\Users\Edward\source\repos\Lab10-sem3\obj\Debug\netcoreapp3.1\Lab10-sem3.pdb
